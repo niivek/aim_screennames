@@ -1,5 +1,5 @@
 # aim_screennames
-Simple python application to get screennames from aim.com because aim service will be shutdown Dec 18 2017
+Simple python application to get screennames from aim.com because aim service will be shutdown Dec 15 2017
 
 original idea came from http://dangoldin.com/2017/10/09/downloading-your-aim-buddy-list/
 
