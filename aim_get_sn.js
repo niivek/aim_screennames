@@ -6,5 +6,5 @@ els = document.getElementsByClassName('user-item');
 for (var i = 0; i < els.length; i++) {
     console.log(els[i].id);
     usernames.push(els[i].id)
-// as you can see modified above portion from ".textContext" to ".id"
+// as you can see modified above portion from ".textContent" to ".id"
 }
