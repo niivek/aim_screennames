@@ -6,7 +6,7 @@ els = document.getElementsByClassName('user-item');
 for (var i = 0; i < els.length; i++) {
     console.log(els[i].textContent);
 	console.log(els[i].id);
-    usernames.push(els[i].textContent)
+    	usernames.push(els[i].textContent)
 	usernames.push(els[i].id)
 // as you can see modified above portion contains both ".textContent" and ".id"
 // id would be their screen name and textcontent is the display name
